@@ -101,58 +101,9 @@ T&=\dfrac{1}{2}m\vec{v}^2\\
 
 
 
-Angular momentum:
-$$\begin{align}
-\vec{L}&=\vec{r}\times\vec{p}
-\end{align}$$
-
-Center of Mass:
-$$\begin{align}
-M\vec{R}&=\int \vec{r}\ dm
-\end{align}$$
-Kinetic Energy:
-$$\begin{align}
-T&=\dfrac{1}{2}m\left(\vec{v}\cdot\vec{v}\right)\\
-\dfrac{dT}{dt}&=
-\end{align}$$
-
-
-Linear Momentum is conserved
-Angular Momentum is conserved
-
-Is there a true total momentum conserved?
 
 
 
 
 
 
-
-
-
-
-
-### Newton's First Law
-In the absence of forces, a point particle moves with constant velocity $\vec{v}$.
-> This only applies in Inertial Reference Frames
-
-
-### Newton's Second Law
-For any point particle of mass $m$, the net force $\vec{F}$ on the particle is always equal to the mass time acceleration of the particle's acceleration.
-> This only applies in Inertial Reference Frames
-
-
-### Newton's Third Law
-The generation of forces must always come in pairs of equal and opposite value.
-> This leads directly to the conservation of momentum.
-
-
-No external forces $\implies$ Conserved momentum (over time).
-
-
-
-
-
-
-Forces are "real," Potentials are not.
-This is similar to $\vec{E}$ and $\vec{B}$ being "real," but $\phi$ and $\vec{A}$ are not.

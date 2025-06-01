@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af7ba7f1973b474c",
+        "id": "74725414079b8578",
         "type": "tabs",
         "children": [
           {
-            "id": "6535ecfd5b8a7a5c",
+            "id": "70bb4601ee80fe42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Phase 1 - Physics/Taylor – Classical Mechanics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Taylor – Classical Mechanics"
             }
           }
         ]
@@ -164,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6535ecfd5b8a7a5c",
+  "active": "70bb4601ee80fe42",
   "lastOpenFiles": [
+    "Phase 1 - Physics/Taylor – Classical Mechanics.pdf",
+    "_Misc/Auxillary/Time-Dependent Coordinate Theory.md",
+    "_Misc/Auxillary/Notes Phase 1.md",
     "Phase 1 - Physics/Taylor – Classical Mechanics.md",
     "Phase 1 - Physics/Schroeder – Thermal Physics.md",
-    "_Misc/Auxillary/Notes Phase 1.md",
     "_Misc/Auxillary/Dynamical Coordinate Systems.md",
-    "_Misc/Auxillary/Time-Dependent Coordinate Theory.md",
     "_Misc/Auxillary",
     "Phases of Reading.md",
     "Phase 1 - Physics/Taylor – Classical Mechanics/Untitled",
-    "Phase 1 - Physics/Taylor – Classical Mechanics.pdf",
     "Phase 3 - Physics/General Relativity - R. Wald.pdf",
     "Phase 3 - Physics/Quantum_Field_Theory_and_the_Standard_Model_by_Schwartz_M.D._z-lib.org.pdf",
     "Phase 3 - Physics/An Introduction To Quantum Field Theory - M. Peskin, D. Schroeder (Perseus, 1995).pdf",
