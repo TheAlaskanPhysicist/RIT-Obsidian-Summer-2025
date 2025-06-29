@@ -1,4 +1,5 @@
 Lecture: https://www.youtube.com/watch?v=4RX_lpoGRBg
+https://www.youtube.com/watch?v=4RX_lpoGRBg&list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg
 
 
 ### What is Statistical Mechanics / Thermodynamics
@@ -189,3 +190,15 @@ C_p-C_v=\dfrac{PV}{T}=Nk_B
 \end{align}$$
 This quantity is a constant that is proportional to the number of particles.
 Here, $k_B$ is also unknown as of now, but later determined to be the Boltzmann Constant.
+
+
+
+
+### Post-Lecture
+Is there an extensions of the carnot engine for any generalized, reverisble path in parameter space?
+If so, it might offer insight like Berry Phase does in Quantum Mechanics.
+
+work can be non-conservative, right?
+
+
+Reversible Process = Conservative Potential = All poings in config space have a single potential number
